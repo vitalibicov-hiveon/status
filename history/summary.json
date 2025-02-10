@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1755,
-    "timeDay": 1755,
-    "timeWeek": 1755,
-    "timeMonth": 1755,
-    "timeYear": 1755,
+    "time": 1486,
+    "timeDay": 1486,
+    "timeWeek": 1486,
+    "timeMonth": 1486,
+    "timeYear": 1486,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api2.hiveos.farm.ico",
     "slug": "hiveos-farm-api",
     "status": "down",
-    "uptime": "10.14%",
-    "uptimeDay": "10.14%",
-    "uptimeWeek": "10.14%",
-    "uptimeMonth": "10.14%",
-    "uptimeYear": "10.14%",
-    "time": 763,
-    "timeDay": 763,
-    "timeWeek": 763,
-    "timeMonth": 763,
-    "timeYear": 763,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 723,
+    "timeDay": 723,
+    "timeWeek": 723,
+    "timeMonth": 723,
+    "timeYear": 723,
     "dailyMinutesDown": {
-      "2025-02-10": 0
+      "2025-02-10": 81
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 313,
-    "timeWeek": 313,
-    "timeMonth": 313,
-    "timeYear": 313,
+    "time": 282,
+    "timeDay": 282,
+    "timeWeek": 282,
+    "timeMonth": 282,
+    "timeYear": 282,
     "dailyMinutesDown": {}
   }
 ]
