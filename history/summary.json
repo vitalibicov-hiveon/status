@@ -34,7 +34,7 @@
     "timeMonth": 609,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2025-02-12": 162,
+      "2025-02-12": 876,
       "2025-02-11": 1440,
       "2025-02-10": 560
     }
@@ -44,17 +44,19 @@
     "url": "https://hiveon.net/api/v1/pool/health",
     "icon": "https://icons.duckduckgo.com/ip3/hiveon.net.ico",
     "slug": "pool-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 316,
-    "timeWeek": 282,
-    "timeMonth": 282,
-    "timeYear": 282,
-    "dailyMinutesDown": {}
+    "time": 309,
+    "timeDay": 366,
+    "timeWeek": 309,
+    "timeMonth": 309,
+    "timeYear": 309,
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   }
 ]
